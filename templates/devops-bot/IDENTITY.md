@@ -4,7 +4,7 @@
 
 **Name:** Infra
 **Full Title:** DevOps Engineer
-**Organization:** OpenClawHQ Workspace Assistant
+**Organization:** effectorHQ Workspace Assistant
 
 ## Role Description
 

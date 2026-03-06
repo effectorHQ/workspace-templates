@@ -1,12 +1,12 @@
-# OpenClawHQ Workspace Templates
+# effectorHQ Workspace Templates
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/OpenClawHQ/workspace-templates/pulls)
-[![OpenClawHQ](https://img.shields.io/badge/OpenClawHQ-250K%2B%20Stars-blue.svg)](https://github.com/OpenClawHQ/openclaw)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
+[![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/effectorHQ/openclaw)
 
 [中文文档](./README.zh.md) | [English](./README.md)
 
-Ready-made **Workspace-as-Kernel** configurations for [OpenClaw](https://github.com/OpenClawHQ/openclaw), the personal AI assistant with 250K+ stars.
+Ready-made **Workspace-as-Kernel** configurations for [OpenClaw](https://github.com/effectorHQ/openclaw), the personal AI assistant with 250K+ stars.
 
 ## What are Workspace Templates?
 
@@ -230,15 +230,15 @@ We welcome contributions! Here's how:
 
 All workspace templates are licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
-Copyright (c) 2026 OpenClawHQ Contributors
+Copyright (c) 2026 effectorHQ Contributors
 
 ## Support
 
 - **Documentation:** [OpenClaw Docs](https://docs.openclaw.dev)
-- **Issues:** [GitHub Issues](https://github.com/OpenClawHQ/workspace-templates/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/OpenClawHQ/workspace-templates/discussions)
-- **Main Project:** [OpenClaw Repository](https://github.com/OpenClawHQ/openclaw)
+- **Issues:** [GitHub Issues](https://github.com/effectorHQ/workspace-templates/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/effectorHQ/workspace-templates/discussions)
+- **Main Project:** [OpenClaw Repository](https://github.com/effectorHQ/openclaw)
 
 ## Acknowledgments
 
-These templates are maintained by the OpenClawHQ community and inspired by production deployments of OpenClaw across DevOps teams, engineering organizations, and security teams worldwide.
+These templates are maintained by the effectorHQ community and inspired by production deployments of OpenClaw across DevOps teams, engineering organizations, and security teams worldwide.

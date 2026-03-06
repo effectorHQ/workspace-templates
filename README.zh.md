@@ -1,12 +1,12 @@
-# OpenClawHQ 工作区模板
+# effectorHQ 工作区模板
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/OpenClawHQ/workspace-templates/pulls)
-[![OpenClawHQ](https://img.shields.io/badge/OpenClawHQ-250K%2B%20Stars-blue.svg)](https://github.com/OpenClawHQ/openclaw)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
+[![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/effectorHQ/openclaw)
 
 [中文文档](./README.zh.md) | [English](./README.md)
 
-为 [OpenClaw](https://github.com/OpenClawHQ/openclaw) 提供现成的**工作区即内核**配置 - 个人AI助手，已有250K+星标。
+为 [OpenClaw](https://github.com/effectorHQ/openclaw) 提供现成的**工作区即内核**配置 - 个人AI助手，已有250K+星标。
 
 ## 什么是工作区模板?
 
@@ -230,15 +230,15 @@ SOUL.md中的示例主题：
 
 所有工作区模板均在MIT许可证下许可。详见 [LICENSE](./LICENSE)。
 
-版权所有 (c) 2026 OpenClawHQ 贡献者
+版权所有 (c) 2026 effectorHQ 贡献者
 
 ## 支持
 
 - **文档：** [OpenClaw文档](https://docs.openclaw.dev)
-- **问题：** [GitHub Issues](https://github.com/OpenClawHQ/workspace-templates/issues)
-- **讨论：** [GitHub Discussions](https://github.com/OpenClawHQ/workspace-templates/discussions)
-- **主项目：** [OpenClaw仓库](https://github.com/OpenClawHQ/openclaw)
+- **问题：** [GitHub Issues](https://github.com/effectorHQ/workspace-templates/issues)
+- **讨论：** [GitHub Discussions](https://github.com/effectorHQ/workspace-templates/discussions)
+- **主项目：** [OpenClaw仓库](https://github.com/effectorHQ/openclaw)
 
 ## 致谢
 
-这些模板由OpenClawHQ社区维护，灵感来自OpenClaw在全球DevOps团队、工程组织和安全团队的生产部署。
+这些模板由effectorHQ社区维护，灵感来自OpenClaw在全球DevOps团队、工程组织和安全团队的生产部署。
