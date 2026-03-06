@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
-[![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/effectorHQ/openclaw)
+[![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/openclaw/openclaw)
 
 [中文文档](./README.zh.md) | [English](./README.md)
 
-为 [OpenClaw](https://github.com/effectorHQ/openclaw) 提供现成的**工作区即内核**配置 - 个人AI助手，已有250K+星标。
+为 [OpenClaw](https://github.com/openclaw/openclaw) 提供现成的**工作区即内核**配置 - 个人AI助手，已有250K+星标。
 
 ## 什么是工作区模板?
 
@@ -237,7 +237,7 @@ SOUL.md中的示例主题：
 - **文档：** [OpenClaw文档](https://docs.openclaw.dev)
 - **问题：** [GitHub Issues](https://github.com/effectorHQ/workspace-templates/issues)
 - **讨论：** [GitHub Discussions](https://github.com/effectorHQ/workspace-templates/discussions)
-- **主项目：** [OpenClaw仓库](https://github.com/effectorHQ/openclaw)
+- **主项目：** [OpenClaw仓库](https://github.com/openclaw/openclaw)
 
 ## 致谢
 

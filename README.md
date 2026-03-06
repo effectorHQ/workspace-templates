@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
-[![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/effectorHQ/openclaw)
+[![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/openclaw/openclaw)
 
 [中文文档](./README.zh.md) | [English](./README.md)
 
-Ready-made **Workspace-as-Kernel** configurations for [OpenClaw](https://github.com/effectorHQ/openclaw), the personal AI assistant with 250K+ stars.
+Ready-made **Workspace-as-Kernel** configurations for [OpenClaw](https://github.com/openclaw/openclaw), the personal AI assistant with 250K+ stars.
 
 ## What are Workspace Templates?
 
@@ -237,7 +237,7 @@ Copyright (c) 2026 effectorHQ Contributors
 - **Documentation:** [OpenClaw Docs](https://docs.openclaw.dev)
 - **Issues:** [GitHub Issues](https://github.com/effectorHQ/workspace-templates/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/effectorHQ/workspace-templates/discussions)
-- **Main Project:** [OpenClaw Repository](https://github.com/effectorHQ/openclaw)
+- **Main Project:** [OpenClaw Repository](https://github.com/openclaw/openclaw)
 
 ## Acknowledgments
 
