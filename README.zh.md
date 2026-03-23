@@ -1,6 +1,5 @@
 # effectorHQ 工作区模板
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache-2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
 [![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/openclaw/openclaw)
 
@@ -228,10 +227,7 @@ SOUL.md中的示例主题：
 
 ## 许可证
 
-
-This project is currently licensed under the Apache 2.0 License 。
-
-所有工作区模板均在MIT许可证下许可。详见 [LICENSE](./LICENSE)。
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
 
 版权所有 (c) 2026 effectorHQ 贡献者
 
