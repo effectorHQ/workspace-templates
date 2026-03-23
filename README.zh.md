@@ -1,6 +1,6 @@
 # effectorHQ 工作区模板
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache-2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
 [![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/openclaw/openclaw)
 
@@ -227,6 +227,9 @@ SOUL.md中的示例主题：
 - 在README.md中添加您的模板并提供清晰的描述
 
 ## 许可证
+
+
+This project is currently licensed under the Apache 2.0 License 。
 
 所有工作区模板均在MIT许可证下许可。详见 [LICENSE](./LICENSE)。
 

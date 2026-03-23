@@ -49,7 +49,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Comprehensive README with installation instructions
 - Chinese translation (README.zh.md) for international audience
-- MIT License for all templates
+- Apache License 2.0 for all templates
 - This CHANGELOG documenting releases and updates
 - Detailed directory structure documentation
 - Template submission guidelines for community contributions
@@ -79,7 +79,7 @@ Each template includes complete Workspace-as-Kernel configuration:
 - Use case descriptions for each template
 - When/why guidance for template selection
 - Contributing guidelines for community submissions
-- MIT License for permissive use and modification
+- Apache License 2.0 for permissive use and modification
 - Bilingual documentation (English and Chinese)
 
 ---
@@ -112,7 +112,7 @@ Each template includes complete Workspace-as-Kernel configuration:
 
 ## Notes
 
-- All templates are MIT licensed and free to use and modify
+- All templates are Apache 2.0 licensed and free to use and modify
 - Community contributions are welcome via GitHub PRs
 - Bug reports and feature requests accepted on GitHub Issues
 - See README.md for contribution guidelines

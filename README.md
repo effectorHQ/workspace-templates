@@ -1,6 +1,6 @@
 # effectorHQ Workspace Templates
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache-2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/workspace-templates/pulls)
 [![effectorHQ](https://img.shields.io/badge/effectorHQ-250K%2B%20Stars-blue.svg)](https://github.com/openclaw/openclaw)
 
@@ -228,7 +228,10 @@ We welcome contributions! Here's how:
 
 ## License
 
-All workspace templates are licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+
+This project is currently licensed under the Apache 2.0 License 。
+
+All workspace templates are licensed under the Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 Copyright (c) 2026 effectorHQ Contributors
 
